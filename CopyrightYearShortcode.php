@@ -1,6 +1,6 @@
 <?php
  /*
- Plugin Name: WC Content Freeze
+ Plugin Name: Copyright Year Shortcode
  Plugin URI: https://github.com/Watson-Creative/CopyrightYearShortcode
  GitHub Plugin URI: https://github.com/Watson-Creative/CopyrightYearShortcode
  description: A very simple plugin to dynamically inject '© ' and the current year in the footer copyright bar (or wherever needed) using the [copyright_year]
