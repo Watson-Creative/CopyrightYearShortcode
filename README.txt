@@ -1,1 +1,1 @@
-A very simple plugin to dynamically inject © and the current year in the footer copyright bar (or wherever needed)
+A very simple plugin to dynamically inject © and the current year in the footer copyright bar (or wherever needed) using the shortcode [copyright_year]
