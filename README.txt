@@ -1,0 +1,1 @@
+A very simple plugin to dynamically inject the current year in the footer copyright bar (or wherever needed)
