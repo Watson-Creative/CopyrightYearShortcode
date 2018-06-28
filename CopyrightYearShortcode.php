@@ -11,7 +11,8 @@
  */
 
 function copyright_year(){
-	echo '© ' . date("Y");
+	$copy = '© ' . date("Y");
+	return $copy;
 }
 add_shortcode( 'copyright_year', 'copyright_year');
 
